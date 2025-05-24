@@ -163,13 +163,21 @@
       "id": "tessoku_book_p",
       "label": "A16",
       "title": "Dungeon 1（※初版第 1 刷の B22 も同じ問題です）",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_p"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_p",
+      "directory": {
+        "path": "a16",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_q",
       "label": "A17",
       "title": "Dungeon 2",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_q"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_q",
+      "directory": {
+        "path": "a17",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_r",
