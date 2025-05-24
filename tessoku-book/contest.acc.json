@@ -183,19 +183,31 @@
       "id": "tessoku_book_r",
       "label": "A18",
       "title": "Subset Sum",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_r"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_r",
+      "directory": {
+        "path": "a18",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_s",
       "label": "A19",
       "title": "Knapsack 1",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_s"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_s",
+      "directory": {
+        "path": "a19",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_t",
       "label": "A20",
       "title": "LCS",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_t"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_t",
+      "directory": {
+        "path": "a20",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_u",
