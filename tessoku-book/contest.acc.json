@@ -113,31 +113,51 @@
       "id": "tessoku_book_k",
       "label": "A11",
       "title": "Binary Search 1",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_k"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_k",
+      "directory": {
+        "path": "a11",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_l",
       "label": "A12",
       "title": "Printer",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_l"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_l",
+      "directory": {
+        "path": "a12",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_m",
       "label": "A13",
       "title": "Close Pairs",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_m"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_m",
+      "directory": {
+        "path": "a13",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_n",
       "label": "A14",
       "title": "Four Boxes",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_n"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_n",
+      "directory": {
+        "path": "a14",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_o",
       "label": "A15",
       "title": "Compression",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_o"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_o",
+      "directory": {
+        "path": "a15",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_p",
