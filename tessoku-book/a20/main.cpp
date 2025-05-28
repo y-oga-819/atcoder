@@ -13,31 +13,37 @@ using namespace std;
 #define coutNo cout << "No" << endl
 
 int main(){
-    int N, K;
-    cin >> N >> K;
+    string S, T;
+    cin >> S >> T;
 
-    vector<int> P(N);
-    vector<int> Q(N);
+    int Sn = S.length();
+    int Tn = T.length();
 
-    // P読み込み
-    for (int i=0; i<N; i++) {
-        cin >> P[i];
+    int DP[Sn+1][Tn+1];
+    // 初期化
+    for (int i=0; i<=Sn; i++) {
+        for (int j=0; j<=Tn; j++) {
+            DP[i][j] = 0;
+        }
     }
 
-    // Q読み込み
-    for(int i=0; i<N; i++) {
-        cin >> Q[i];
+    for (int i=1; i<=Sn; i++) { // Sの文字に対して
+        for (int j=1; j<=Tn; j++) { // Tの文字を舐めていく
+            if (S[i-1] == T[j-1]) { // Siと同じ文字Tjを見つけたとき(文字列だから添え字が0始まりで1つずれてる。まじかよ)
+                DP[i][j] = DP[i-1][j-1] + 1; // 一致した数+1。
+            } else { // 違う文字だった時
+                DP[i][j] = max(DP[i-1][j], DP[i][j-1]); // 探索前の数字を引き継ぐ。前の選択肢が選んだ時と選ばなかった時の2択あるので、2択のmaxを取る
+            }            
+        }
     }
 
-    for (int i=0; i<N; i++) {
-        for (int j=0; j<N; j++) {
-            if(P[i] + Q[j] == K) {
-                cout << "Yes" << endl;
-                return 0;            
-            }
-        }   
-    }
+    // for (int i=0; i<=Sn; i++) { // Sの文字に対して
+    //     for (int j=0; j<=Tn; j++) { // Tの文字を舐めていく
+    //         cout << " " << DP[i][j];
+    //     }
+    //     cout << endl;
+    // }
 
-    cout << "No" << endl;
+    cout << DP[Sn][Tn] << endl;
     return 0;
 }
