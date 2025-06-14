@@ -213,31 +213,51 @@
       "id": "tessoku_book_u",
       "label": "A21",
       "title": "Block Game",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_u"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_u",
+      "directory": {
+        "path": "a21",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_v",
       "label": "A22",
       "title": "Sugoroku",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_v"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_v",
+      "directory": {
+        "path": "a22",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_w",
       "label": "A23",
       "title": "All Free",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_w"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_w",
+      "directory": {
+        "path": "a23",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_x",
       "label": "A24",
       "title": "LIS",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_x"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_x",
+      "directory": {
+        "path": "a24",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_y",
       "label": "A25",
       "title": "Number of Routes",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_y"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_y",
+      "directory": {
+        "path": "a25",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_z",
