@@ -263,31 +263,51 @@
       "id": "tessoku_book_z",
       "label": "A26",
       "title": "Prime Check",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_z"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_z",
+      "directory": {
+        "path": "a26",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "math_and_algorithm_o",
       "label": "A27",
       "title": "Calculate GCD",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/math_and_algorithm_o"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/math_and_algorithm_o",
+      "directory": {
+        "path": "a27",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_ab",
       "label": "A28",
       "title": "Blackboard",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ab"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ab",
+      "directory": {
+        "path": "a28",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "math_and_algorithm_aq",
       "label": "A29",
       "title": "Power",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/math_and_algorithm_aq"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/math_and_algorithm_aq",
+      "directory": {
+        "path": "a29",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_ad",
       "label": "A30",
       "title": "Combination",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ad"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ad",
+      "directory": {
+        "path": "a30",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_ae",
