@@ -313,31 +313,51 @@
       "id": "tessoku_book_ae",
       "label": "A31",
       "title": "Divisors",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ae"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ae",
+      "directory": {
+        "path": "a31",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_af",
       "label": "A32",
       "title": "Game 1",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_af"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_af",
+      "directory": {
+        "path": "a32",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_ag",
       "label": "A33",
       "title": "Game 2",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ag"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ag",
+      "directory": {
+        "path": "a33",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_ah",
       "label": "A34",
       "title": "Game 3",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ah"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ah",
+      "directory": {
+        "path": "a34",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_ai",
       "label": "A35",
       "title": "Game 4",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ai"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ai",
+      "directory": {
+        "path": "a35",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_aj",
