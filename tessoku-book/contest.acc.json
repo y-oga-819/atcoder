@@ -363,31 +363,51 @@
       "id": "tessoku_book_aj",
       "label": "A36",
       "title": "Travel",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_aj"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_aj",
+      "directory": {
+        "path": "a36",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_ak",
       "label": "A37",
       "title": "Travel 2",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ak"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ak",
+      "directory": {
+        "path": "a37",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_al",
       "label": "A38",
       "title": "Black Company 1",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_al"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_al",
+      "directory": {
+        "path": "a38",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "math_and_algorithm_bn",
       "label": "A39",
       "title": "Interval Scheduling Problem",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/math_and_algorithm_bn"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/math_and_algorithm_bn",
+      "directory": {
+        "path": "a39",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_an",
       "label": "A40",
       "title": "Triangle",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_an"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_an",
+      "directory": {
+        "path": "a40",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_ao",
