@@ -413,79 +413,131 @@
       "id": "tessoku_book_ao",
       "label": "A41",
       "title": "Tile Coloring",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ao"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ao",
+      "directory": {
+        "path": "a41",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_ap",
       "label": "A42",
       "title": "Soccer",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ap"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ap",
+      "directory": {
+        "path": "a42",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_aq",
       "label": "A43",
       "title": "Travel 3",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_aq"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_aq",
+      "directory": {
+        "path": "a43",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_ar",
       "label": "A44",
       "title": "Change and Reverse",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ar"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ar",
+      "directory": {
+        "path": "a44",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_as",
       "label": "A45",
       "title": "Card Elimination",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_as"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_as",
+      "directory": {
+        "path": "a45",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_at",
       "label": "A46",
       "title": "Heuristic 1",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_at"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_at",
+      "directory": {
+        "path": "a46",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_aw",
       "label": "A49",
       "title": "Heuristic 2",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_aw"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_aw",
+      "directory": {
+        "path": "a49",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "future_contest_2018_qual_a",
       "label": "A50",
       "title": "山型足し算",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/future_contest_2018_qual_a"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/future_contest_2018_qual_a",
+      "directory": {
+        "path": "a50",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_ay",
       "label": "A51",
       "title": "Stack",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ay"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ay",
+      "directory": {
+        "path": "a51",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_az",
       "label": "A52",
       "title": "Queue",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_az"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_az",
+      "directory": {
+        "path": "a52",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_ba",
       "label": "A53",
       "title": "Priority Queue",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ba"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_ba",
+      "directory": {
+        "path": "a53",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_bb",
       "label": "A54",
       "title": "Map",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_bb"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_bb",
+      "directory": {
+        "path": "a54",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_bc",
       "label": "A55",
       "title": "Set",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_bc"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_bc",
+      "directory": {
+        "path": "a55",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_bd",
