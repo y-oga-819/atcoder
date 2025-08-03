@@ -543,19 +543,31 @@
       "id": "tessoku_book_bd",
       "label": "A56",
       "title": "String Hash",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_bd"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_bd",
+      "directory": {
+        "path": "a56",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_be",
       "label": "A57",
       "title": "Doubling",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_be"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_be",
+      "directory": {
+        "path": "a57",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_bf",
       "label": "A58",
       "title": "RMQ (Range Maximum Queries)",
-      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_bf"
+      "url": "https://atcoder.jp/contests/tessoku-book/tasks/tessoku_book_bf",
+      "directory": {
+        "path": "a58",
+        "submit": "main.cpp"
+      }
     },
     {
       "id": "tessoku_book_bg",
